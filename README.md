@@ -13,4 +13,4 @@ Maths student building and testing AI tools. First-year BSc Mathematics with Com
 ### Tools
 Python · Go · C++ · SQL · Git · GitHub Actions · Docker
 
-[LinkedIn](https://www.linkedin.com/in/johanns-satheesh-91958233b/)
+[Website](https://johannssatheesh.github.io) · [LinkedIn](https://www.linkedin.com/in/johannssatheesh/)
